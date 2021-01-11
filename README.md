@@ -1,3 +1,3 @@
 # My name is Milla.
 
-## I study computer science in University of Helsinki.
+## I study computer science at University of Helsinki.
